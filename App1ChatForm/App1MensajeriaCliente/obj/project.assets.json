@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Outlet\\source\\repos\\App1Mensajeria\\App1MensajeriaCliente\\App1MensajeriaCliente.csproj",
+      "projectUniqueName": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1ChatForm\\App1MensajeriaCliente\\App1MensajeriaCliente.csproj",
       "projectName": "App1MensajeriaCliente",
-      "projectPath": "C:\\Users\\Outlet\\source\\repos\\App1Mensajeria\\App1MensajeriaCliente\\App1MensajeriaCliente.csproj",
+      "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1ChatForm\\App1MensajeriaCliente\\App1MensajeriaCliente.csproj",
       "packagesPath": "C:\\Users\\Outlet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Outlet\\source\\repos\\App1Mensajeria\\App1MensajeriaCliente\\obj\\",
+      "outputPath": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1ChatForm\\App1MensajeriaCliente\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Outlet\\AppData\\Roaming\\NuGet\\NuGet.Config",
