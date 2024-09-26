@@ -38,6 +38,7 @@
             entradaTextBox.Name = "entradaTextBox";
             entradaTextBox.Size = new System.Drawing.Size(772, 23);
             entradaTextBox.TabIndex = 0;
+            entradaTextBox.KeyDown += entradaTextBox_KeyDown;
             // 
             // mostrarTextBox
             // 
@@ -55,8 +56,8 @@
             Controls.Add(mostrarTextBox);
             Controls.Add(entradaTextBox);
             Name = "ClienteChatForm";
-            Text = "Form1";
-            Load += this.ClienteChatForm_Load;
+            Text = "Cliente";
+            Load += ClienteChatForm_Load;
             ResumeLayout(false);
             PerformLayout();
         }

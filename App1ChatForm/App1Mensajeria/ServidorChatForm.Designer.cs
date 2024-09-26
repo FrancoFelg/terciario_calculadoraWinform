@@ -40,7 +40,8 @@ namespace App1Mensajeria
             entradaTextbox.Name = "entradaTextbox";
             entradaTextbox.Size = new System.Drawing.Size(776, 23);
             entradaTextbox.TabIndex = 0;
-            
+            entradaTextbox.KeyDown += entradaTextbox_KeyDown;
+
             // 
             // mostrarTextBox
             // 

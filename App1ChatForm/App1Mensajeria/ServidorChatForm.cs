@@ -68,6 +68,7 @@ namespace App1Mensajeria
 
         private void entradaTextbox_KeyDown(object sender, KeyEventArgs e)
         {
+            System.Diagnostics.Debug.WriteLine("Entre: entradaTextBox_KeyDown SERVIDOR");
             try
             {
                 if (e.KeyCode == Keys.Enter && entradaTextbox.ReadOnly == false)

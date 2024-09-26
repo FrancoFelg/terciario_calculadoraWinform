@@ -28,7 +28,7 @@ namespace App1MensajeriaCliente
         }
 
         // Inicializa el subproceso para lectura
-        
+
         private void ClienteChatForm_Load(object sender, EventArgs e)
         {
             System.Diagnostics.Debug.WriteLine("Entre: OnLoad");
@@ -77,12 +77,12 @@ namespace App1MensajeriaCliente
         // Envía al servidor el texto que escribe el usuario
         private void entradaTextBox_KeyDown(object sender, KeyEventArgs e)
         {
-            System.Diagnostics.Debug.WriteLine("Entre: entradaTextBox_KeyDown");
+            System.Diagnostics.Debug.WriteLine("Entre: entradaTextBox_KeyDown CLIENTE");
             try
             {
                 if (e.KeyCode == Keys.Enter && entradaTextBox.ReadOnly == false)
                 {
-                    
+
                     escritor.Write("CLIENTE>>> " + entradaTextBox.Text);
                     mostrarTextBox.Text += "\r\nCLIENTE>>>" + entradaTextBox.Text;
                     entradaTextBox.Clear();
@@ -147,6 +147,6 @@ namespace App1MensajeriaCliente
                 Environment.Exit(Environment.ExitCode);
             }
         }
-
+        
     }
 }
