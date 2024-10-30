@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9089D42-5C46-4F44-B40B-FF5E6572D719}|App1MensajeriaCliente\\App1MensajeriaCliente.csproj|c:\\users\\outlet\\documents\\github\\terciario_calculadorawinform\\app1mensajeriacliente\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9089D42-5C46-4F44-B40B-FF5E6572D719}|App1MensajeriaCliente\\App1MensajeriaCliente.csproj|solutionrelative:app1mensajeriacliente\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9089D42-5C46-4F44-B40B-FF5E6572D719}|App1MensajeriaCliente\\App1MensajeriaCliente.csproj|c:\\users\\outlet\\documents\\github\\terciario_calculadorawinform\\app1mensajeriacliente\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9089D42-5C46-4F44-B40B-FF5E6572D719}|App1MensajeriaCliente\\App1MensajeriaCliente.csproj|solutionrelative:app1mensajeriacliente\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9089D42-5C46-4F44-B40B-FF5E6572D719}|App1MensajeriaCliente\\App1MensajeriaCliente.csproj|c:\\users\\outlet\\documents\\github\\terciario_calculadorawinform\\app1mensajeriacliente\\clientechatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9089D42-5C46-4F44-B40B-FF5E6572D719}|App1MensajeriaCliente\\App1MensajeriaCliente.csproj|solutionrelative:app1mensajeriacliente\\clientechatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F607B8C7-BA75-4A54-B9EE-7B6FE884128C}|App1Mensajeria\\App1Mensajeria.csproj|c:\\users\\outlet\\documents\\github\\terciario_calculadorawinform\\app1mensajeria\\servidorchatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F607B8C7-BA75-4A54-B9EE-7B6FE884128C}|App1Mensajeria\\App1Mensajeria.csproj|solutionrelative:app1mensajeria\\servidorchatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9089D42-5C46-4F44-B40B-FF5E6572D719}|App1MensajeriaCliente\\App1MensajeriaCliente.csproj|C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\app1mensajeriacliente\\clientechatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9089D42-5C46-4F44-B40B-FF5E6572D719}|App1MensajeriaCliente\\App1MensajeriaCliente.csproj|solutionrelative:app1mensajeriacliente\\clientechatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9089D42-5C46-4F44-B40B-FF5E6572D719}|App1MensajeriaCliente\\App1MensajeriaCliente.csproj|c:\\users\\outlet\\documents\\github\\terciario_calculadorawinform\\app1mensajeriacliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9089D42-5C46-4F44-B40B-FF5E6572D719}|App1MensajeriaCliente\\App1MensajeriaCliente.csproj|solutionrelative:app1mensajeriacliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F607B8C7-BA75-4A54-B9EE-7B6FE884128C}|App1Mensajeria\\App1Mensajeria.csproj|c:\\users\\outlet\\documents\\github\\terciario_calculadorawinform\\app1mensajeria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F607B8C7-BA75-4A54-B9EE-7B6FE884128C}|App1Mensajeria\\App1Mensajeria.csproj|solutionrelative:app1mensajeria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F607B8C7-BA75-4A54-B9EE-7B6FE884128C}|App1Mensajeria\\App1Mensajeria.csproj|C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\app1mensajeria\\servidorchatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F607B8C7-BA75-4A54-B9EE-7B6FE884128C}|App1Mensajeria\\App1Mensajeria.csproj|solutionrelative:app1mensajeria\\servidorchatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 274,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1MensajeriaCliente\\Home.cs",
+              "RelativeDocumentMoniker": "App1MensajeriaCliente\\Home.cs",
+              "ToolTip": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1MensajeriaCliente\\Home.cs",
+              "RelativeToolTip": "App1MensajeriaCliente\\Home.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowDIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T01:57:57.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1MensajeriaCliente\\Home.cs",
+              "RelativeDocumentMoniker": "App1MensajeriaCliente\\Home.cs",
+              "ToolTip": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1MensajeriaCliente\\Home.cs [Dise\u00F1o]",
+              "RelativeToolTip": "App1MensajeriaCliente\\Home.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T01:57:33.171Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteChatForm.cs",
+              "DocumentMoniker": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1MensajeriaCliente\\ClienteChatForm.cs",
+              "RelativeDocumentMoniker": "App1MensajeriaCliente\\ClienteChatForm.cs",
+              "ToolTip": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1MensajeriaCliente\\ClienteChatForm.cs",
+              "RelativeToolTip": "App1MensajeriaCliente\\ClienteChatForm.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAIwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:23:38.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServidorChatForm.cs",
+              "DocumentMoniker": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1Mensajeria\\ServidorChatForm.cs",
+              "RelativeDocumentMoniker": "App1Mensajeria\\ServidorChatForm.cs",
+              "ToolTip": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1Mensajeria\\ServidorChatForm.cs",
+              "RelativeToolTip": "App1Mensajeria\\ServidorChatForm.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAuwGQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:04:33.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteChatForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1MensajeriaCliente\\ClienteChatForm.cs",
+              "RelativeDocumentMoniker": "App1MensajeriaCliente\\ClienteChatForm.cs",
+              "ToolTip": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1MensajeriaCliente\\ClienteChatForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "App1MensajeriaCliente\\ClienteChatForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:42:19.599Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1Mensajeria\\Program.cs",
+              "RelativeDocumentMoniker": "App1Mensajeria\\Program.cs",
+              "ToolTip": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1Mensajeria\\Program.cs",
+              "RelativeToolTip": "App1Mensajeria\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:32:29.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1MensajeriaCliente\\Program.cs",
+              "RelativeDocumentMoniker": "App1MensajeriaCliente\\Program.cs",
+              "ToolTip": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1MensajeriaCliente\\Program.cs",
+              "RelativeToolTip": "App1MensajeriaCliente\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T01:54:29.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServidorChatForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1Mensajeria\\ServidorChatForm.cs",
+              "RelativeDocumentMoniker": "App1Mensajeria\\ServidorChatForm.cs",
+              "ToolTip": "C:\\Users\\Outlet\\Documents\\GitHub\\terciario_calculadoraWinform\\App1Mensajeria\\ServidorChatForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "App1Mensajeria\\ServidorChatForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:42:21.17Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
